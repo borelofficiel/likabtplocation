@@ -17,7 +17,7 @@ import {
 import { useState } from "react";
 
 const heroImg =
-  "/images/hero1.jpg";
+  "/likabtplocation/images/hero1.jpg";
 
 const equipment = [
   {
@@ -70,7 +70,7 @@ const allEquipment = [
     brand: "CATERPILLAR",
     category: "terrassement" as const,
     qty: 1,
-    img: "/images/Terrassement/CATERPILARDPELLE315CL.jpg",
+    img: "/likabtplocation/images/Terrassement/CATERPILARDPELLE315CL.jpg",
   },
   {
     id: "terr-2",
@@ -78,7 +78,7 @@ const allEquipment = [
     brand: "CATERPILLAR",
     category: "terrassement" as const,
     qty: 1,
-    img: "/images/Terrassement/CATERPILARDNivelleuse120G.jpg",
+    img: "/likabtplocation/images/Terrassement/CATERPILARDNivelleuse120G.jpg",
   },
   {
     id: "terr-3",
@@ -86,7 +86,7 @@ const allEquipment = [
     brand: "CATERPILLAR",
     category: "terrassement" as const,
     qty: 1,
-    img: "/images/Terrassement/CATERPILARDBulldozerD7.jpg",
+    img: "/likabtplocation/images/Terrassement/CATERPILARDBulldozerD7.jpg",
   },
   {
     id: "terr-4",
@@ -94,7 +94,7 @@ const allEquipment = [
     brand: "XCMG",
     category: "terrassement" as const,
     qty: 2,
-    img: "/images/Terrassement/XCMG140.jpg",
+    img: "/likabtplocation/images/Terrassement/XCMG140.jpg",
   },
   {
     id: "terr-5",
@@ -102,7 +102,7 @@ const allEquipment = [
     brand: "CATERPILLAR",
     category: "terrassement" as const,
     qty: 2,
-    img: "/images/Terrassement/CATERPILARDGRADER140H.jpg",
+    img: "/likabtplocation/images/Terrassement/CATERPILARDGRADER140H.jpg",
   },
 
   /* ================================
@@ -114,7 +114,7 @@ const allEquipment = [
     brand: "MAXUS",
     category: "transport" as const,
     qty: 2,
-    img: "/images/TRANSPORT/VanMAXUS16Places.jpg",
+    img: "/likabtplocation/images/TRANSPORT/VanMAXUS16Places.jpg",
   },
   {
     id: "trans-2",
@@ -122,7 +122,7 @@ const allEquipment = [
     brand: "TOYOTA",
     category: "transport" as const,
     qty: 2,
-    img: "/images/TRANSPORT/VanTOYOTA14Places.jpg",
+    img: "/likabtplocation/images/TRANSPORT/VanTOYOTA14Places.jpg",
   },
   {
     id: "trans-3",
@@ -130,7 +130,7 @@ const allEquipment = [
     brand: "TOYOTA",
     category: "transport" as const,
     qty: 2,
-    img: "/images/TRANSPORT/PickupTOYOTAHILUX.jpg",
+    img: "/likabtplocation/images/TRANSPORT/PickupTOYOTAHILUX.jpg",
   },
   {
     id: "trans-4",
@@ -138,7 +138,7 @@ const allEquipment = [
     brand: "MINI CAR",
     category: "transport" as const,
     qty: 1,
-    img: "/images/TRANSPORT/MINICAR32Places.jpg",
+    img: "/likabtplocation/images/TRANSPORT/MINICAR32Places.jpg",
   },
   {
     id: "trans-5",
@@ -146,7 +146,7 @@ const allEquipment = [
     brand: "CHENGLONG",
     category: "transport" as const,
     qty: 2,
-    img: "/images/TRANSPORT/TracteurCHENGLONG.jpg",
+    img: "/likabtplocation/images/TRANSPORT/TracteurCHENGLONG.jpg",
   },
   {
     id: "trans-6",
@@ -154,7 +154,7 @@ const allEquipment = [
     brand: "DIBEX",
     category: "transport" as const,
     qty: 2,
-    img: "/images/TRANSPORT/Sémi-remorqueDIBEX.jpg",
+    img: "/likabtplocation/images/TRANSPORT/Sémi-remorqueDIBEX.jpg",
   },
   {
     id: "trans-7",
@@ -162,7 +162,7 @@ const allEquipment = [
     brand: "SINOTRUK",
     category: "transport" as const,
     qty: 4,
-    img: "/images/TRANSPORT/SINOTRUKBenne10roues.jpg",
+    img: "/likabtplocation/images/TRANSPORT/SINOTRUKBenne10roues.jpg",
   },
 
   /* ================================
@@ -174,7 +174,7 @@ const allEquipment = [
     brand: "KIA",
     category: "autres" as const,
     qty: 1,
-    img: "/images/TRANSPORT/KIAMinibenne6roues.jpeg",
+    img: "/likabtplocation/images/TRANSPORT/KIAMinibenne6roues.jpeg",
   },
 ];
 
