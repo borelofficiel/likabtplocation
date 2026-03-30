@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { AnimatedSection } from "./AnimatedSection";
 import { motion } from "motion/react";

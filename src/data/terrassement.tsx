@@ -8,7 +8,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "Caterpillar 120 G",
     quantity: 1,
-    img: "/images/Terrassement/CATERPILARDNivelleuse120G.jpg"
+    img: "/likabtplocation/images/Terrassement/CATERPILARDNivelleuse120G.jpg"
   },
 
   // 🚜 BULLDOZER
@@ -19,7 +19,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "Caterpillar D7",
     quantity: 1,
-    img: "/images/Terrassement/CATERPILARDBulldozerD7.jpg"
+    img: "/likabtplocation/images/Terrassement/CATERPILARDBulldozerD7.jpg"
   },
 
   // 🚜 GRADER XCMG
@@ -30,7 +30,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "XCMG 140",
     quantity: 2,
-    img: "/images/Terrassement/XCMG140.jpg"
+    img: "/likabtplocation/images/Terrassement/XCMG140.jpg"
   },
 
   // 🚜 GRADER CATERPILLAR
@@ -41,7 +41,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "Caterpillar 140 H",
     quantity: 2,
-    img: "/images/Terrassement/CATERPILARDGRADER140H.jpg"
+    img: "/likabtplocation/images/Terrassement/CATERPILARDGRADER140H.jpg"
   },
 
   // 🚜 PELLE
@@ -52,7 +52,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "Caterpillar 315 CL",
     quantity: 1,
-    img: "/images/Terrassement/CATERPILARDPELLE315CL.jpg"
+    img: "/likabtplocation/images/Terrassement/CATERPILARDPELLE315CL.jpg"
   },
 
   //CHARGEUSES
@@ -63,7 +63,7 @@ export const terrassementEngins = [
     price: "À partir de /jour",
     specs: "XCMG  chargeuse 966 ",
     quantity: 3,
-    img: "/images/Terrassement/XCMGchargeuse966.jpg"
+    img: "/likabtplocation/images/Terrassement/XCMGchargeuse966.jpg"
   }
 
 ];

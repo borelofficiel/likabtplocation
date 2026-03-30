@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { AnimatedSection } from "./AnimatedSection";
 import { motion } from "motion/react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { Search, Filter, ChevronRight } from "lucide-react";
 
 /* ================================

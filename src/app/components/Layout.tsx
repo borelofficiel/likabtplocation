@@ -1,4 +1,4 @@
-import { Outlet } from "react-router";
+import { Link, Outlet } from "react-router-dom"; // <-- Ajout de Outlet
 import { Navbar } from "./Navbar";
 import { Footer } from "./Footer";
 
